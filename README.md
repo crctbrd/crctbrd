@@ -7,3 +7,5 @@ NEVER KILL YOURSELF.
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=nor4qejv0xbq3xsbj8qjne32w&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=f7a409&bar_color_cover=false">
   </a>
 </p>
+<p align=center>
+<sub><sup>I'll make this actually look good later. Read my other stuff Ok.</sup></sub>
